@@ -6,8 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyansh199" alt="divyansh199" /></a> </p>
 - 📫 How to reach me **divyanshwaghmare9211@gmail.com**
-<img align="right" src= "https://camo.githubusercontent.com/5b03c8afc794e871c339a3ddae6ff17dff1508da0fc0c1de2a9a2eecd999d6aa/68747470733a2f2f73616d6a6f6c2e6769746875622e696f2f706f7274666f6c696f2f66696c65732f6769746875622d62616e6e65722e676966" alt="Logo" width="400" height="300">
-
+<img align="right" src= "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif" alt="Logo" width="400" height="300">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/divyansh waghmare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyansh waghmare" height="30" width="40" /></a>
